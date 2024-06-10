@@ -4,9 +4,9 @@ CHAD (= ClickHist + Atmospheric Data)
 
 An implementation for exploring data in NASA's GEOS-5 7 km Nature Run (G5NR)
 
-Author: Matthew Niznik (matthewniznik on Github)
+Author: Mattie Niznik (importmattie on Github)
 
-E-mail: matt@matthewniznik.com | mniznik@rsmas.miami.edu
+E-mail: mattie.niznik@princeton.edu
 
 Version 1.1.4
 
@@ -20,6 +20,6 @@ We gratefully acknowledge this financial support.
 
 System Requirements:
 
-See the project wiki on GitHub! (https://github.com/matthewniznik/CHAD_G5NR/wiki)
+See the project wiki on GitHub! (https://github.com/importmattie/CHAD_G5NR/wiki)
 
 If you come across any bugs or need assistance in using ClickHist, please notify the author at the E-mail listed above.
